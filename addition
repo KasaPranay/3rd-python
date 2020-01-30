@@ -1,4 +1,4 @@
 n=12
 n1=13
 k=n+n1
-print(k)
+print(n+n1)
